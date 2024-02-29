@@ -6,7 +6,7 @@ void print_space(int row, int i){
 }
 void print_number(int row,int i){
     for(int num=1;num<=i;num++){
-        printf("%d ",num);
+        printf("%d ",i);
     }
     
 }
